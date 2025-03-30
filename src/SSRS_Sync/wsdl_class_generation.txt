@@ -1,0 +1,4 @@
+﻿Open Developer command
+
+
+wsdl http://localhost/ReportServer/ReportService2005.asmx?wsdl
