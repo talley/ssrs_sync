@@ -14,7 +14,6 @@ using System.Threading;
 using System.Diagnostics;
 using SSRS_Sync.ReportService;
 using DevExpress.XtraEditors;
-using Telerik.WinControls.UI;
 
 namespace SSRS_Sync
 {
